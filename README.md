@@ -1,1 +1,1 @@
-# Programmation-Python-pour-les-Maths
+# Programmation Python pour les Mathématiques
